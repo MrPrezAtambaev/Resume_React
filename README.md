@@ -67,7 +67,7 @@ The page will reload if you make edits.
 ## Usage Instructions
 
 Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+You will find all the components used and you can edit your information accordingly.ddawd
 
 ### Show your support
 
